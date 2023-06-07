@@ -1,0 +1,18 @@
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/01_Login.html
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/02_Sign up.html
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/03_Forgot password.html
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/04_Forgot password.html
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/05A_Dashboard.html
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/06A_District_Maintenance.html
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/06B_District_Maintenance.html
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/06C_Select_Products_Used.html
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/08B_Upload_New_Products.html
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/08C_Upload_New_Products.html
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/10A_Manage_My_Products.html
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/10B_Upload_New_Products.html
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/11A_Dashboard.html
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/12A_Manage_Cooperative.html
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/12B_Manage_Cooperative(1).html
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/12C_Manage_Cooperative.html
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/14A_Forum.html
+http://cipldesigns.colaninfotechapps.in/school_meal/Cooperative-Admin/15A_Manage_Reports.html

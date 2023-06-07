@@ -1,0 +1,17 @@
+http://cipldesigns.colaninfotechapps.in/school_meal/District Admin/01_Login.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District Admin/02_Sign up.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District Admin/03_Forgot password.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District Admin/04_Forgot password.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District Admin/05A_Dashboard.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District Admin/06B_District_Maintenance.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District Admin/06C_Select_Products_Used.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District Admin/08B_Upload_New_Products.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District Admin/10A_Manage_My_Products.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District Admin/10B_Upload_New_Products.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District Admin/11A_Dashboard.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District Admin/12B_Manage_Cooperative(1).html
+http://cipldesigns.colaninfotechapps.in/school_meal/District Admin/13A_District_Admin.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District Admin/13B_District_Admin.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District Admin/13D_District_Admin.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District Admin/14A_Forum.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District Admin/15A_Manage_Reports.html

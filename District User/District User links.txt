@@ -1,0 +1,14 @@
+http://cipldesigns.colaninfotechapps.in/school_meal/District User/01_Login.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District User/02_Sign up.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District User/03_Forgot password.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District User/04_Forgot password.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District User/05A_Dashboard.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District User/06B_District_Maintenance.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District User/06C_Select_Products_Used.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District User/08B_Upload_New_Products.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District User/10A_Manage_My_Products.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District User/10B_Upload_New_Products.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District User/11A_Dashboard.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District User/12B_Manage_Cooperative(1).html
+http://cipldesigns.colaninfotechapps.in/school_meal/District User/14A_Forum.html
+http://cipldesigns.colaninfotechapps.in/school_meal/District User/15A_Manage_Reports.html

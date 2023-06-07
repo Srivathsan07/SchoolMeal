@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title></title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="./css/responsive.css">
+</head>
+<body>
+
+<div class="container">
+  <!-- Button to Open the Modal -->
+  <button type="button" class="btn btn-success mt-3 pl-3 pr-3" data-toggle="modal" data-target="#myModal">
+    Open modal
+  </button>
+
+  <!-- The Modal Start-->
+  <div class="modal" id="myModal">
+    <div class="modal-dialog frame_15">
+      <div class="modal-content">
+      
+        <!-- Modal Body -->
+
+      <div class="modal-body custom-body">
+        <h4 class="modal-title pop-title">Suggest Replacement</h4>
+          <div class="form_main">
+            <div class="row">
+              <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                <div class="form_input_main">
+                  <label>Exisiting Product</label>
+                  <input type="text" class="form_input" placeholder="Rasted Turkey Breast">  
+                </div>
+              </div>
+              <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                <div class="form_input_main">
+                  <label class="pt-3">Replace Product</label>
+                  <select>
+                    <option>Select Product</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+            </div>
+        </div>
+        <!-- Modal footer Start-->
+        <div class="button_section">
+            <button class="btn green_btn">SAVE</button>
+            <button class="btn white_btn">CANCEL</button>
+          </div>
+     
+      </div>
+    </div>
+  </div>
+</div>
+<!-- The Modal End-->
+</body>
+</html>
